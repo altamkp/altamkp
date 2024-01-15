@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am an indie game developer creating games and plugins with Godot 🎮
+
 <!--
 **altamkp/altamkp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
